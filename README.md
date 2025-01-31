@@ -3,6 +3,8 @@
 ## Overview
 This project is a Python-based Optical Character Recognition (OCR) system that extracts text from images using OpenCV and Tesseract OCR. The program fetches images from provided URLs, preprocesses them, and then applies OCR to extract text.
 
+You can find the .ipynb file, download it, and directly run it in a Jupyter notebook environment.
+
 ## Features
 - **Download Images**: Fetches images from given URLs and ensures they are in a valid format.
 - **Preprocessing**: Converts images to grayscale and applies thresholding for improved text recognition.
