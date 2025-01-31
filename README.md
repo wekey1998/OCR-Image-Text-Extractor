@@ -69,5 +69,5 @@ This project is licensed under the MIT License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ## Contact
-For any inquiries, contact [Your Name] at [Your Email].
+For any inquiries, contact Vigneshwaran at chokkalingamvigneshwaran@gmail.com
 
